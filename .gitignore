@@ -1,0 +1,8 @@
+outputs/
+cuda*
+plot_467-20250413T185541Z-001/
+*.pyc
+*.pth
+*.pt
+*.ckpt
+*.zip
